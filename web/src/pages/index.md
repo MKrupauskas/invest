@@ -2,11 +2,10 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big <span>Hero Headline</span>
-    subtitle: Optional hero section subtitle
+    title: Start your own investing journey
+    subtitle: Let your money generate profit
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+      Money loses its value over time. Don't let that happen by investing into reliable companies of your choice.
     actions:
       - label: Try Free
         url: /pricing
@@ -22,8 +21,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Image Grid
-    subtitle: Grid Section Example
+    title: Partners
     align: center
     grid_items:
       - image: images/logo-1.svg
@@ -46,11 +44,10 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: Features Section
-    subtitle: Features Section Example
+    title: Investment Strategies
     features:
-      - title: The Big Title For the Feature
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+      - title: Active and Passive Investing
+        subtitle: 'Compare the two and choose which one suits you better'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
@@ -65,7 +62,7 @@ sections:
         image: images/classic/feature-1.png
         media_position: right
         media_width: fifty
-      - title: The Big Title For the Feature
+      - title: Benefits of Investing into ETFs
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
@@ -80,8 +77,8 @@ sections:
         image: images/classic/feature-2.png
         media_position: left
         media_width: fifty
-      - title: The Big Title For the Feature
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+      - title: Invest to Support Global Issues.
+        subtitle: 'Help companies fight Global Issues for you by supporting them financially'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
@@ -102,28 +99,25 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+          “I used to be afraid of investing. My financial consultant suggested trying MoneyWorksForMe. Now I know that clever investing can barely ever result in a loss.”
+        subtitle: 'David Norman, BA in Computer Science '
         image: images/brandon-guidelines.png
         media_position: right
         media_width: thirty-three
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: Cards Grid Section
-    subtitle: Grid Section Example
+    title: Megatrends
+    subtitle: They shape our future
     grid_items:
-      - title: Section Item 1
+      - title: Technological breakthrough
         title_align: left
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Technology is driving exponential progress in the tech sector and far beyond. More than 75 billion internet-connected devices are expected by 2025, up from 30 billion today.
         content_align: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: https://www.ishares.com/us/strategies/megatrends/technological-breakthrough
             style: link
             has_icon: true
             icon: arrow-right
@@ -133,16 +127,14 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 2
+      - title: Demographics and social change
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Longer lifespans and modern lifestyles will change medicine and consumer habits. Some estimates project a 45% increase worldwide in people aged 60 or older by 2030.
         content_align: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: https://www.ishares.com/us/strategies/megatrends/demographics-and-social-change
             style: link
             has_icon: true
             icon: arrow-right
@@ -152,22 +144,54 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 3
+      - title: Rapid urbanization
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Mass migration to cities will require new business models and infrastructure. Two-thirds of the world’s population will reside in cities by 2050, double the percentage from 1950.
         content_align: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: https://www.ishares.com/us/strategies/megatrends/rapid-urbanization
             style: link
             has_icon: true
             icon: arrow-right
             icon_position: center
         actions_align: left
         image: images/classic/icon-3.svg
+        image_position: top
+        image_align: left
+        image_has_padding: true
+      - title: Climate change and resource scarcity
+        title_align: left
+        content: >-
+          Demand for a clean, green tomorrow will advance energy and conservation. Half of the world’s energy is predicted to come from solar and wind by 2050, up from just 7% in 2015.
+        content_align: left
+        actions:
+          - label: Learn More
+            url: https://www.ishares.com/us/strategies/megatrends/climate-change-resource-scarcity
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+        actions_align: left
+        image: images/classic/icon-4.svg
+        image_position: top
+        image_align: left
+        image_has_padding: true
+      - title: Emerging global wealth
+        title_align: left
+        content: >-
+          Newly affluent consumers will expand in Asia and across emerging markets. Emerging market economies today are predicted to represent six out of the seven largest economies by 2050.
+        content_align: left
+        actions:
+          - label: Learn More
+            url: https://www.ishares.com/us/strategies/megatrends/emerging-global-wealth
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+        actions_align: left
+        image: images/classic/icon-5.svg
         image_position: top
         image_align: left
         image_has_padding: true
@@ -222,53 +246,6 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: secondary
-  - type: cta_section
-    title: This is Call To Action Section In <span>DIY Theme!</span>
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-  - type: grid_section
-    title: Team Section
-    subtitle: Grid Section Example
-    actions:
-      - label: Join the team
-        url: /style-guide
-        style: primary
-    grid_items:
-      - title: Gustav Purpleson
-        subtitle: Co-Founder & CEO
-        title_align: center
-        image: images/gustav-purpleson.jpg
-        image_position: top
-      - title: Dianne Ameter
-        subtitle: Software Engineer
-        title_align: center
-        image: images/dianne-ameter.jpg
-        image_position: top
-      - title: Hugh Saturation
-        subtitle: Developer Advocate
-        title_align: center
-        image: images/hugh-saturation.jpg
-        image_position: top
-      - title: Hilary Ouse
-        subtitle: Operations Manager
-        title_align: center
-        image: images/hilary-ouse.jpg
-        image_position: top
-    grid_cols: four
-    align: center
-    background_color: secondary
   - type: blog_feed_section
     title: What's New
     subtitle: Blog Feed Section Example
@@ -291,7 +268,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: This is Call To Action Section In <span>DIY Theme!</span>
+    title: Stop hesitating and open your own Portfolio!
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
