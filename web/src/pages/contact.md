@@ -22,12 +22,12 @@ sections:
         actions:
           - label: Get Support
             url: /general-enquiries
-            style: link
+            style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/classic/icon-1.svg
+        image: images/classic/icon-2.svg
         image_position: top
         image_align: center
         image_has_padding: true
@@ -45,7 +45,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/classic/icon-2.svg
+        image: images/classic/icon-1.svg
         image_position: top
         image_align: center
         image_has_padding: true
@@ -58,12 +58,12 @@ sections:
         actions:
           - label: Get Support
             url: /general-enquiries
-            style: primary
+            style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/classic/icon-3.svg
+        image: images/classic/icon-5.svg
         image_position: top
         image_align: center
         image_has_padding: true
