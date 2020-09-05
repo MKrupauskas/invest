@@ -67,7 +67,7 @@ sections:
     background_color: none
     actions:
       - label: Continue
-        url: /pricing
+        url: /demo/invest
         style: primary
 template: advanced
 ---

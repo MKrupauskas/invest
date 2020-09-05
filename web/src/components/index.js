@@ -22,6 +22,7 @@ import HeaderMenu from './HeaderMenu';
 import HeroSection from './HeroSection';
 import Icon from './Icon';
 import SectionActions from './SectionActions';
+import InvestSection from './InvestSection';
 import Layout from './Layout';
 
 import DemoSection from './DemoSection';
@@ -52,6 +53,7 @@ export {
   Icon,
   SectionActions,
   Layout,
+  InvestSection,
   DemoSection,
 };
 
@@ -81,5 +83,6 @@ export default {
   Icon,
   SectionActions,
   Layout,
+  InvestSection,
   DemoSection,
 };

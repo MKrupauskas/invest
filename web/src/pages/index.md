@@ -7,12 +7,9 @@ sections:
     content: >-
       Money loses its value over time. Don't let that happen by investing into reliable companies of your choice.
     actions:
-      - label: Start Investing Now
-        url: /onboarding
+      - label: See How it Works
+        url: /demo/onboarding
         style: primary
-      - label: Learn More
-        url: /features
-        style: secondary
     image: images/classic/hero.png
     media_position: left
     media_width: fifty

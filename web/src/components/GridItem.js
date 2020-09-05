@@ -64,7 +64,8 @@ export default class GridItem extends React.Component {
     return (
       <React.Fragment>
         <div
-          className={classNames('cell-12', 'cell-md-6', {
+          className={classNames('cell-12', {
+            'cell-md-6': columns !== 'one',
             'cell-lg-4': columns === 'three' || columns === 'four',
             'cell-xl-3': columns === 'four',
             'my-1': gap_y === 'small',

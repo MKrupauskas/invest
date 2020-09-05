@@ -39,8 +39,8 @@
         "style": "link"
       },
       {
-        "label": "Start Investing Now",
-        "url": "/onboarding",
+        "label": "See How it Works",
+        "url": "/demo/onboarding",
         "style": "primary"
       }
     ],
@@ -148,8 +148,8 @@
         "new_window": true
       }
     ],
-    "content": "&copy; Invest. All rights reserved.",
+    "content": "&copy; Money Works. All rights reserved.",
     "links": []
   },
-  "title": "Stackbit DIY Theme"
+  "title": "Money Works"
 }
