@@ -25,6 +25,7 @@ import SectionActions from './SectionActions';
 import Layout from './Layout';
 
 import DemoSection from './DemoSection';
+import PortfolioBuilderSection from './PortfolioBuilderSection';
 
 export {
     Action,
@@ -53,6 +54,7 @@ export {
     SectionActions,
     Layout,
     DemoSection,
+    PortfolioBuilderSection
 };
 
 export default {
@@ -82,4 +84,5 @@ export default {
     SectionActions,
     Layout,
     DemoSection,
+    PortfolioBuilderSection
 };
