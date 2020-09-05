@@ -20,29 +20,36 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - type: grid_section
-    title: Partners
-    align: center
-    grid_items:
-      - image: images/logo-1.svg
-        image_align: center
-      - image: images/logo-2.svg
-        image_align: center
-      - image: images/logo-3.svg
-        image_align: center
-      - image: images/logo-4.svg
-        image_align: center
-      - image: images/logo-5.svg
-        image_align: center
-      - image: images/logo-6.svg
-        image_align: center
-      - image: images/logo-7.svg
-        image_align: center
-      - image: images/logo-8.svg
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
+  - type: form_section
+    title: Join the waiting list!
+    title_align: center
+    content: >-
+      Get notified as soon as we launch our mobile application and start your investment journey.
+    content_align: center
+    form_position: bottom
+    form_layout: inline
+    form_id: subscribeForm
+    form_fields:
+      - input_type: email
+        name: email
+        label: Email
+        default_value: Your email address
+        is_required: true
+    submit_label: Subscribe
+    padding_top: medium
+    padding_bottom: medium
+    has_border: true
+    background_color: secondary
+  - type: features_section
+    features:
+      - title: >-
+          “I used to be afraid of investing. My financial consultant suggested trying MoneyWorksForMe. Now I know that clever investing can barely ever result in a loss.”
+        subtitle: David Norman, BA in Computer Science, 24 years
+        image: images/brandon-guidelines.png
+        media_position: right
+        media_width: thirty-three
+    feature_padding_vert: small
+    background_color: primary
   - type: features_section
     title: Investment Strategies
     features:
@@ -96,16 +103,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-  - type: features_section
-    features:
-      - title: >-
-          “I used to be afraid of investing. My financial consultant suggested trying MoneyWorksForMe. Now I know that clever investing can barely ever result in a loss.”
-        subtitle: David Norman, BA in Computer Science, 24 years
-        image: images/brandon-guidelines.png
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
   - type: grid_section
     title: Megatrends
     subtitle: They shape our future
@@ -202,7 +199,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Customer Reviews
+    title: What other investors say
     grid_items:
       - content: >-
           Even though the amounts I invest are small, over time I see an increase. It motivates me to invest more every time.
@@ -261,18 +258,25 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - type: cta_section
-    title: Stop hesitating and open your own Portfolio!
+  - type: form_section
+    title: Join the waiting list!
+    title_align: center
     content: >-
-      The earlier you start investing, the higher income you can expect from your savings. There is no better time than now!
-    actions:
-      - label: Start Investing Now
-        url: /onboarding
-        style: primary
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
+      Get notified as soon as we launch our mobile application and start your investment journey.
+    content_align: center
+    form_position: bottom
+    form_layout: inline
+    form_id: subscribeForm
+    form_fields:
+      - input_type: email
+        name: email
+        label: Email
+        default_value: Your email address
+        is_required: true
+    submit_label: Subscribe
+    padding_top: medium
+    padding_bottom: medium
+    has_border: true
     background_color: secondary
 template: advanced
 ---
