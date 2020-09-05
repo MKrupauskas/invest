@@ -2,79 +2,50 @@
 title: Pricing
 sections:
   - type: hero_section
-    title: Pick Your Plan
-    subtitle: Optional hero section subtitle
+    title: Select Investment Model
     align: center
     padding_top: large
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: Personal
-        subtitle: Optional subtitle
+      - title: One-off payment
         title_align: left
         content: |-
           ---
 
-          ### $9
+          ### Starting from $10
 
-          per month, billed yearly
+          billed only once
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
+          * Invest the amount you are comfortable with
+          * Payments can be done as many times as needed
         content_align: left
         actions:
-          - label: Start with Personal
-            url: /features
+          - label: Make a one-off payment
+            url: /onboarding
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Premium
-        subtitle: Optional subtitle
+      - title: Monthly payments
         title_align: left
         content: |-
           ---
 
-          ### $19
+          ### Starting from $10
 
-          per month, billed yearly
+          billed monthly
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+          * Payments are done automatically every month
+          * Get notified if not enough balance
+          * Agreement can be cancelled at any time
         content_align: left
         actions:
-          - label: Start with Premium
-            url: /features
+          - label: Register monthly payments
+            url: /onboarding
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Business
-        subtitle: Optional subtitle
-        title_align: left
-        content: |-
-          ---
-
-          ### $39
-
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
-        content_align: left
-        actions:
-          - label: Start with Business
-            url: /features
-            style: primary
-        actions_align: left
-        actions_width: full-width
-    grid_cols: three
+    grid_cols: two
     grid_gap_horiz: small
     grid_gap_vert: small
     enable_cards: true
