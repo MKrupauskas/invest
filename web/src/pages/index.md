@@ -24,36 +24,30 @@ sections:
     title: Partners
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/vanguard.png
+        image_align: middle
+      - image: images/charles.png
         image_align: center
-      - image: images/logo-2.svg
+      - image: images/tesla.png
         image_align: center
-      - image: images/logo-3.svg
+      - image: images/ishares_logo.png
         image_align: center
-      - image: images/logo-4.svg
-        image_align: center
-      - image: images/logo-5.svg
-        image_align: center
-      - image: images/logo-6.svg
-        image_align: center
-      - image: images/logo-7.svg
-        image_align: center
-      - image: images/logo-8.svg
-        image_align: center
+      # - image: images/logo-7.svg
+      #   image_align: center
+      # - image: images/logo-8.svg
+      #   image_align: center
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
     title: Investment Strategies
     features:
-      - title: Active and Passive Investing
-        subtitle: 'Compare the two and choose which one suits you better'
+      - title: The power of Passive Investing
+        subtitle: 'Learn about the 8th Wonder of the World - compound interest'
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Start building your wealth early, learn how to allocate your money the right way. Build your knowledge and start investing now!
         actions:
-          - label: Learn More
+          - label: Teach me, boomer!
             url: /style-guide
             style: primary
             has_icon: true
@@ -64,11 +58,9 @@ sections:
         media_width: fifty
       - title: Benefits of Investing into ETFs
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          We understand that stonks only go up, HODL Bitcoin and Tesla $420,69 but truly set yourself apart, ETFs offer the best tools to achieve your financial goals.  
         actions:
-          - label: Learn More
+          - label: Teach me, Yoda
             url: /style-guide
             style: primary
             has_icon: true
@@ -78,13 +70,11 @@ sections:
         media_position: left
         media_width: fifty
       - title: Invest to Support Global Issues.
-        subtitle: 'Help companies fight Global Issues for you by supporting them financially'
+        subtitle: 'Help companies fight for Global Issues for you by supporting them financially'
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Do you care about any of these issues: climate change, racial equity and data privacy? If so, now you can use smart ways to spread your own money across multiple companies that support your causes.
         actions:
-          - label: Learn More
+          - label: Yes, I want to help!
             url: /style-guide
             style: primary
             has_icon: true
