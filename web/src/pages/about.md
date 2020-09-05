@@ -3,35 +3,29 @@ title: About
 sections:
   - type: hero_section
     title: About
-    subtitle: About Page Demo
+    subtitle: Learn more about us
     align: center
     background_color: secondary
   - type: features_section
     features:
-      - title: Section Title One
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+      - title: Problem
+        subtitle: Generation Z are unwilling to invest
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Most of young people nowadays don't take their opportunity in investing. They often don't realise that their savings lose value over time due to inflation. Later on they regret not having invested earlier in their lives.
         image: images/about-5.jpg
         media_position: right
         media_width: fifty
-      - title: Section Title Two
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+      - title: Our Vision
+        subtitle: Educational approach to finances
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          We want to create a platform that introduces people to some crucial investment strategies. Not only we aim to teach them how to make better use of their savings, but also allow freedom of choice between which companies users can invest in.
         image: images/about-2.jpg
         media_position: left
         media_width: fifty
-      - title: Section Title Three
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
+      - title: Solution
+        subtitle: Investment website suited for Generation Z users
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Our website allows users to invest into companies that try to overcome most relevant global issues. 
         image: images/about-1.jpg
         media_position: right
         media_width: fifty

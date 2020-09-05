@@ -7,8 +7,8 @@ sections:
     content: >-
       Money loses its value over time. Don't let that happen by investing into reliable companies of your choice.
     actions:
-      - label: Try Free
-        url: /pricing
+      - label: Start Investing Now
+        url: /onboarding
         style: primary
       - label: Learn More
         url: /features
@@ -164,7 +164,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-4.svg
+        image: images/classic/icon-2.svg
         image_position: top
         image_align: left
         image_has_padding: true
@@ -181,7 +181,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-5.svg
+        image: images/classic/icon-1.svg
         image_position: top
         image_align: left
         image_has_padding: true
@@ -256,8 +256,8 @@ sections:
     content: >-
       The earlier you start investing, the higher income you can expect from your savings. There is no better time than now!
     actions:
-      - label: Invest
-        url: /pricing
+      - label: Start Investing Now
+        url: /onboarding
         style: primary
     actions_position: bottom
     align: center

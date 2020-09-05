@@ -13,6 +13,7 @@ import FeaturesSection from './FeaturesSection';
 import Footer from './Footer';
 import FooterMenu from './FooterMenu';
 import FormField from './FormField';
+import FundSection from './FundSection';
 import FormSection from './FormSection';
 import GridItem from './GridItem';
 import GridSection from './GridSection';
@@ -35,6 +36,7 @@ export {
     BlogPostCategories,
     BlogPostFeedItem,
     BlogPostTags,
+    FundSection,
     CtaSection,
     Feature,
     FeaturesSection,
@@ -64,6 +66,7 @@ export default {
     BlogPostCategories,
     BlogPostFeedItem,
     BlogPostTags,
+    FundSection,
     CtaSection,
     Feature,
     FeaturesSection,
