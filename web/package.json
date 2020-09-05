@@ -12,6 +12,9 @@
   "dependencies": {
     "@nivo/bump": "^0.62.0",
     "@nivo/line": "^0.62.0",
+    "@nivo/pie": "^0.62.0",
+    "@nivo/stream": "^0.62.0",
+    "@nivo/sunburst": "^0.62.0",
     "@stackbit/gatsby-plugin-menus": "0.0.4",
     "chokidar": "^3.4.0",
     "classnames": "^2.2.6",

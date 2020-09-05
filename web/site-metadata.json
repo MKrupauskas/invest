@@ -3,14 +3,13 @@
   "layout": "full-width",
   "style": "classic",
   "palette": "green",
-  "mode": "dark",
+  "mode": "light",
   "base_font": "serif",
   "header": {
     "title": "Invest",
     "logo": "images/logo.png",
     "has_primary_nav": true,
-    "primary_nav_links": [
-      {
+    "primary_nav_links": [{
         "label": "Features",
         "url": "/features",
         "style": "link"
@@ -32,8 +31,7 @@
       }
     ],
     "has_secondary_nav": true,
-    "secondary_nav_links": [
-      {
+    "secondary_nav_links": [{
         "label": "Contact",
         "url": "/contact",
         "style": "link"
@@ -55,8 +53,7 @@
     "logo": "images/logo.png",
     "has_primary_nav": true,
     "primary_nav_title": "Company",
-    "primary_nav_links": [
-      {
+    "primary_nav_links": [{
         "label": "About",
         "url": "/about",
         "style": "link"
@@ -69,8 +66,7 @@
     ],
     "has_secondary_nav": true,
     "secondary_nav_title": "Blog",
-    "secondary_nav_links": [
-      {
+    "secondary_nav_links": [{
         "label": "News",
         "url": "/blog/category/news",
         "style": "link"
@@ -88,8 +84,7 @@
     ],
     "has_tertiary_nav": true,
     "tertiary_nav_title": "Legal",
-    "tertiary_nav_links": [
-      {
+    "tertiary_nav_links": [{
         "label": "Terms & Conditions",
         "url": "/terms-conditions",
         "style": "link"
@@ -101,8 +96,7 @@
       }
     ],
     "has_social": true,
-    "social_links": [
-      {
+    "social_links": [{
         "label": "Twitter",
         "url": "https://twitter.com/",
         "style": "link",
