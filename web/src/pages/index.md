@@ -100,7 +100,7 @@ sections:
     features:
       - title: >-
           “I used to be afraid of investing. My financial consultant suggested trying MoneyWorksForMe. Now I know that clever investing can barely ever result in a loss.”
-        subtitle: 'David Norman, BA in Computer Science '
+        subtitle: David Norman, BA in Computer Science, 24 years
         image: images/brandon-guidelines.png
         media_position: right
         media_width: thirty-three
@@ -202,42 +202,37 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Reviews Section
-    subtitle: Grid Section Example
+    title: Customer Reviews
     grid_items:
       - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          Even though the amounts I invest are small, over time I see an increase. It motivates me to invest more every time.
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Hanson Deck,** *Student, 18 years*
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
       - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          All these outbreaks of racism we are seeing nowadays are horrible. By investing into Black Lives Matter ETF, I know that my savings serve a purpose.
 
 
-          **Miles Tone,** *CEO, Studio*
+          **Miles Tone,** *BA in Land Economy, 21 years*
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
       - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          I always viewed investment as an activity for more experienced people. With help from MoneyWorksForMe I could gain relevant knowledge to make decisions on my own.
 
 
-          **Eleanor Carr,** *CTO, Studio*
+          **Eleanor Carr,** *Student, 17 years*
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
       - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          I was interested in investing since 10<sup>th</sup> grade, but only now I found an application which is both highly functional and easy to use.
 
 
-          **Gordon Norman,** *Web Designer, Studio*
+          **Gordon Norman,** *BA in Economics, 23 years*
         image: images/gordon-norman.png
         image_position: left
         image_width: twenty-five
@@ -248,7 +243,6 @@ sections:
     background_color: secondary
   - type: blog_feed_section
     title: What's New
-    subtitle: Blog Feed Section Example
     actions:
       - label: View All
         url: /blog
@@ -270,11 +264,9 @@ sections:
   - type: cta_section
     title: Stop hesitating and open your own Portfolio!
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      The earlier you start investing, the higher income you can expect from your savings. There is no better time than now!
     actions:
-      - label: Button
+      - label: Invest
         url: /pricing
         style: primary
     actions_position: bottom
