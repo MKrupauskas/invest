@@ -7,6 +7,7 @@ import BlogPostCategories from './BlogPostCategories';
 import BlogPostFeedItem from './BlogPostFeedItem';
 import BlogPostTags from './BlogPostTags';
 import CtaSection from './CtaSection';
+import OnboardingSection from './OnboardingSection';
 import Feature from './Feature';
 import FeaturesSection from './FeaturesSection';
 import Footer from './Footer';
@@ -35,6 +36,7 @@ export {
     Feature,
     FeaturesSection,
     Footer,
+    OnboardingSection,
     FooterMenu,
     FormField,
     FormSection,
@@ -61,6 +63,7 @@ export default {
     Feature,
     FeaturesSection,
     Footer,
+    OnboardingSection,
     FooterMenu,
     FormField,
     FormSection,

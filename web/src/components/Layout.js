@@ -16,6 +16,7 @@ export default class Body extends React.Component {
                 <Helmet>
                     <title>{_.get(this.props, 'pageContext.frontmatter.title', null) && (_.get(this.props, 'pageContext.frontmatter.title', null) + ' | ')}{_.get(this.props, 'pageContext.site.siteMetadata.title', null)}</title>
                     <meta charSet="utf-8"/>
+                    <link rel="icon" type="image/png" href="/images/logo.png"></link>
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="description" content={_.get(this.props, 'pageContext.frontmatter.excerpt', null) || _.get(this.props, 'pageContext.site.siteMetadata.description', null)}/>
                     {(style === 'bold') ? (

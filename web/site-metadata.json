@@ -1,13 +1,13 @@
 {
-  "description": "A \"do it yourself\" theme for Stackbit",
-  "layout": "boxed",
+  "description": "Investing made easy.",
+  "layout": "full-width",
   "style": "classic",
   "palette": "green",
-  "mode": "light",
+  "mode": "dark",
   "base_font": "serif",
   "header": {
-    "title": "DIY",
-    "logo": "images/classic/logo.svg",
+    "title": "Invest",
+    "logo": "images/logo.png",
     "has_primary_nav": true,
     "primary_nav_links": [
       {
@@ -28,11 +28,6 @@
       {
         "label": "Blog",
         "url": "/blog",
-        "style": "link"
-      },
-      {
-        "label": "Style Guide",
-        "url": "/style-guide",
         "style": "link"
       }
     ],
@@ -57,7 +52,7 @@
     "anncmnt_id": "new-features"
   },
   "footer": {
-    "logo": "images/classic/logo.svg",
+    "logo": "images/logo.png",
     "has_primary_nav": true,
     "primary_nav_title": "Company",
     "primary_nav_links": [
