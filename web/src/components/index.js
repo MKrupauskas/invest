@@ -23,6 +23,8 @@ import Icon from './Icon';
 import SectionActions from './SectionActions';
 import Layout from './Layout';
 
+import DemoSection from './DemoSection';
+
 export {
     Action,
     Announcement,
@@ -47,7 +49,8 @@ export {
     HeroSection,
     Icon,
     SectionActions,
-    Layout
+    Layout,
+    DemoSection,
 };
 
 export default {
@@ -74,5 +77,6 @@ export default {
     HeroSection,
     Icon,
     SectionActions,
-    Layout
+    Layout,
+    DemoSection,
 };
