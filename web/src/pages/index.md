@@ -266,8 +266,8 @@ sections:
     content: >-
       The earlier you start investing, the higher income you can expect from your savings. There is no better time than now!
     actions:
-      - label: Invest
-        url: /pricing
+      - label: Start Investing Now
+        url: /onboarding
         style: primary
     actions_position: bottom
     align: center
