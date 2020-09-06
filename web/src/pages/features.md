@@ -11,7 +11,11 @@ sections:
         subtitle: 'It is a lot more easier to become an investor than you realise. It simply means your money is more than cash - you can own a piece of company and be a co-owner'
         content: >-
           You do not have to be a character from The Wolf of Wall Street or have three computer screens set up and spend your days analyzing thousands of reports.
-        image: images/about-3.jpg
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/yxmIZ26kSig?modestbranding=1"
+          frameborder="0" allow="accelerometer; autoplay; encrypted-media;
+          gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: right
         media_width: fifty
       - title: Let the Economy work for you
