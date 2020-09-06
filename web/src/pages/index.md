@@ -249,25 +249,5 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - type: form_section
-    title: Join the waiting list!
-    title_align: center
-    content: >-
-      Get notified as soon as we launch our mobile application and start your investment journey.
-    content_align: center
-    form_position: bottom
-    form_layout: inline
-    form_id: subscribeForm
-    form_fields:
-      - input_type: email
-        name: email
-        label: Email
-        default_value: Your email address
-        is_required: true
-    submit_label: Subscribe
-    padding_top: medium
-    padding_bottom: medium
-    has_border: true
-    background_color: secondary
 template: advanced
 ---
