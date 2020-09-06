@@ -30,7 +30,7 @@ sections:
         media_position: right
         media_width: fifty
   - type: grid_section
-    title: Our Officess
+    title: Our Offices
     grid_items:
       - title: Some City
         content: >-
