@@ -2,52 +2,43 @@
 title: Features
 sections:
   - type: hero_section
-    title: Explore Features
-    subtitle: Features Page Demo
+    title: What does our platform offer? 
+    subtitle: A simple, easy-to-understand platform that focuses on key changes that take place in the World today
     background_color: primary
   - type: features_section
     features:
-      - title: Section Title One
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+      - title: Become an investor
+        subtitle: 'It is a lot more easier to become an investor than you realise. It simply means your money is more than cash - you can own a piece of company and be a co-owner'
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          You do not have to be a character from The Wolf of Wall Street or have three computer screens set up and spend your days analyzing thousands of reports.
         image: images/about-3.jpg
         media_position: right
         media_width: fifty
-      - title: Section Title Two
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+      - title: Let the Economy work for you
+        subtitle: 'There are big changes taking over the World. Be the one to take advantage of them. '
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          We all know that climate change is real and we have to do something about it. Why not invest in companies that make solar panels, electric cars and fight for a green future?
         video_embed_html: >-
           <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
+          src="https://www.youtube.com/embed/MLgn_kVKjCE?modestbranding=1"
           frameborder="0" allow="accelerometer; autoplay; encrypted-media;
           gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: left
         media_width: fifty
-      - title: Section Title Three
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
+      - title: Rock-bottom fees, no middleman involved. Keep your money and grow it!
+        subtitle: 'We have a fiduciary duty to serve our investors to the best of our ability. '
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Starting investing early is great but overtime hidden fees can eat a portion of your portfolio. Our fees are transparent, stable and will only go down over time.
         image: images/about-1.jpg
         media_position: right
         media_width: fifty
   - type: grid_section
-    title: Cards Section
-    subtitle: Grid Section Example
+    title: Why invest with us?
     grid_items:
-      - title: Section Item 1
+      - title: Learn and invest
         title_align: left
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Our content-rich library will help you to understand our investing process and the motivation behind investing in the first place
         content_align: left
         actions:
           - label: Learn More
@@ -61,12 +52,10 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 2
+      - title: Our focus is on customers, not the profits
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          We are an industry-leading provider of investment vehicles that mainly focus on megatrends in the society today.
         content_align: left
         actions:
           - label: Learn More
@@ -80,12 +69,10 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 3
+      - title: Lowest fees in the industry
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Keep more of your money and pay less for transactions. Simple and easy.
         content_align: left
         actions:
           - label: Learn More
@@ -99,70 +86,11 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 4
-        title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        actions_align: left
-        image: images/classic/icon-3.svg
-        image_position: top
-        image_align: left
-        image_has_padding: true
-    grid_cols: two
+    grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
     enable_cards: true
     align: center
     background_color: none
-  - type: grid_section
-    title: Reviews Section
-    subtitle: Grid Section Example
-    grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Eleanor Carr,** *CTO, Studio*
-        image: images/eleanor-carr.png
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Gordon Norman,** *Web Designer, Studio*
-        image: images/gordon-norman.png
-        image_position: left
-        image_width: twenty-five
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: large
-    align: center
-    background_color: secondary
-  - type: cta_section
-    title: This is a Call to Action
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
-    actions:
-      - label: Compare Plans
-        url: /pricing
-        style: primary
-    actions_position: right
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
 template: advanced
 ---
