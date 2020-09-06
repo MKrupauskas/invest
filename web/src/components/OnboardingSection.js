@@ -103,8 +103,8 @@ export default (props) => {
           />
         </div>
       </div>
-      <div className="container">
-        <h1>${value} per month</h1>
+      <div className="container" style={{ marginTop: 30 }}>
+        <h2>${value} per month</h2>
       </div>
       <div className="container" style={{ height: 500, marginTop: 30 }}>
         <ResponsiveLine
