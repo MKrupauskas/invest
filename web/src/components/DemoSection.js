@@ -297,14 +297,14 @@ export default () => {
       "color": "hsl(227, 70%, 50%)"
     },
     {
-      "id": "Medicine",
-      "label": "Medicine",
+      "id": "Developing countries",
+      "label": "Developing countries",
       "value": 19,
       "color": "hsl(64, 70%, 50%)"
     },
     {
-      "id": "Developing countries",
-      "label": "Developing countries",
+      "id": "Medicine",
+      "label": "Medicine",
       "value": 10,
       "color": "hsl(268, 70%, 50%)"
     }
@@ -312,8 +312,8 @@ export default () => {
 
   return <div>
     <section className={classNames('section')}>
-      <h3 style={{ textAlign: "center" }}>How is your money performing?</h3>
       <div className="container" style={{
+        border: '1px solid #ccc',
         width: 1000,
         height: 500,
       }}>
@@ -381,8 +381,8 @@ export default () => {
       </div>
     </section>
     <section className={classNames('section')}>
-      <h3 style={{ textAlign: "center" }}>Where do you hold your money?</h3>
       <div className="container" style={{
+        border: '1px solid #ccc',
         width: 1000,
         height: 500,
       }}>
@@ -502,5 +502,15 @@ export default () => {
       </div>
     </section >
   </div>;
+
+
+
+  // <div style={{
+  //   border: '1px solid #ccc',
+  //   width: 1000,
+  //   height: 1000,
+  // }}>
+
+  // </div>;
 }
 
