@@ -62,15 +62,15 @@ export default (props) => {
           className="cover-img"
           style={toStyleObj(
             "background-image: url('" +
-              withPrefix(_.get(section, 'background_image', null)) +
-              "'); opacity: " +
-              bg_img_opacity +
-              '; background-size: ' +
-              bg_img_size +
-              '; background-repeat: ' +
-              bg_img_repeat +
-              '; background-position: ' +
-              bg_img_position,
+            withPrefix(_.get(section, 'background_image', null)) +
+            "'); opacity: " +
+            bg_img_opacity +
+            '; background-size: ' +
+            bg_img_size +
+            '; background-repeat: ' +
+            bg_img_repeat +
+            '; background-position: ' +
+            bg_img_position,
           )}
         />
       )}
@@ -152,32 +152,32 @@ export default (props) => {
           pointLabelYOffset={-12}
           useMesh={true}
           enableArea={true}
-          legends={[
-            {
-              anchor: 'bottom-right',
-              direction: 'column',
-              justify: false,
-              translateX: 100,
-              translateY: 0,
-              itemsSpacing: 0,
-              itemDirection: 'left-to-right',
-              itemWidth: 80,
-              itemHeight: 20,
-              itemOpacity: 0.75,
-              symbolSize: 12,
-              symbolShape: 'circle',
-              symbolBorderColor: 'rgba(0, 0, 0, .5)',
-              effects: [
-                {
-                  on: 'hover',
-                  style: {
-                    itemBackground: 'rgba(0, 0, 0, .03)',
-                    itemOpacity: 1,
-                  },
-                },
-              ],
-            },
-          ]}
+        // legends={[
+        //   {
+        //     anchor: 'bottom-right',
+        //     direction: 'column',
+        //     justify: false,
+        //     translateX: 100,
+        //     translateY: 0,
+        //     itemsSpacing: 0,
+        //     itemDirection: 'left-to-right',
+        //     itemWidth: 80,
+        //     itemHeight: 20,
+        //     itemOpacity: 0.75,
+        //     symbolSize: 12,
+        //     symbolShape: 'circle',
+        //     symbolBorderColor: 'rgba(0, 0, 0, .5)',
+        //     effects: [
+        //       {
+        //         on: 'hover',
+        //         style: {
+        //           itemBackground: 'rgba(0, 0, 0, .03)',
+        //           itemOpacity: 1,
+        //         },
+        //       },
+        //     ],
+        //   },
+        // ]}
         />
       </div>
       {_.get(section, 'grid_items', null) && (
