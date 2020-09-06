@@ -29,7 +29,7 @@ sections:
         subtitle: 'We have a fiduciary duty to serve our investors to the best of our ability. '
         content: >-
           Starting investing early is great but overtime hidden fees can eat a portion of your portfolio. Our fees are transparent, stable and will only go down over time.
-        image: images/about-1.jpg
+        image: images/fees_2.png
         media_position: right
         media_width: fifty
   - type: grid_section
@@ -48,7 +48,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-1.svg
+        image: images/classic/business_woman.png
         image_position: top
         image_align: left
         image_has_padding: true
@@ -65,7 +65,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-2.svg
+        image: images/classic/sustainable.png
         image_position: top
         image_align: left
         image_has_padding: true
@@ -82,7 +82,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-3.svg
+        image: images/classic/fees.png
         image_position: top
         image_align: left
         image_has_padding: true
