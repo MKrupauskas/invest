@@ -61,7 +61,7 @@ sections:
           As little as $10 will suffice, but the more you invest the better outcomes can be expected. However, you should avoid investing all of your savings at once.
       - title: Am I guaranteed to gain profit from my investments?
         content: >-
-          No, it is not always the case. Stock market often has price fluctuations in it, so at times you may observe your money being lost. But in the long run most investitions tend to pay off.
+          No, it is not always the case. Stock market often has price fluctuations in it, so at times you may observe your money being lost. But in the long run most diversified investments tend to pay off.
       - title: What happens to money that I invest?
         content: >-
           With this money we buy stocks for you. By pre-selecting companies that are perspective and sustainable we can expect that these stocks will grow in value. As value of stocks change, you can see your invested money changing its value as well.
