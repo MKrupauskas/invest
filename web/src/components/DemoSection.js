@@ -297,14 +297,14 @@ export default () => {
       "color": "hsl(227, 70%, 50%)"
     },
     {
-      "id": "Developing countries",
-      "label": "Developing countries",
+      "id": "Medicine",
+      "label": "Medicine",
       "value": 19,
       "color": "hsl(64, 70%, 50%)"
     },
     {
-      "id": "Medicine",
-      "label": "Medicine",
+      "id": "Developing countries",
+      "label": "Developing countries",
       "value": 10,
       "color": "hsl(268, 70%, 50%)"
     }

@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: hero_section
-    title: Select Investment Model
+    title: Select Investment Plan
     align: center
     padding_top: large
     padding_bottom: small
@@ -56,34 +56,18 @@ sections:
   - type: grid_section
     title: 'You asked, we answered!'
     grid_items:
-      - title: Lorem ipsum dolor sit amet consectetur?
+      - title: How much savings should I have to start investing?
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-      - title: Sagittis vitae et leo duis ut diam?
+          As little as $10 will suffice, but the more you invest the better outcomes can be expected. However, you should avoid investing all of your savings at once.
+      - title: Am I guaranteed to gain profit from my investments?
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-      - title: Viverra nam libero justo laoreet sit?
+          No, it is not always the case. Stock market often has price fluctuations in it, so at times you may observe your money being lost. But in the long run most diversified investments tend to pay off.
+      - title: What happens to money that I invest?
         content: >-
-          In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
-          posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
-          amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
-          nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
-          tellus. Non enim praesent elementum facilisis.
-      - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
+          With this money we buy stocks for you. By pre-selecting companies that are perspective and sustainable we can expect that these stocks will grow in value. As value of stocks change, you can see your invested money changing its value as well.
+      - title: How can I get my money back after investing it?
         content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
-      - title: Porta nibh venenatis cras sed felis eget velit aliquet?
-        content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
+          When you decide to terminate investment, you can simply sell the stocks that you have so far. Amount of money you get back depends on value of stocks at that time.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
