@@ -31,7 +31,12 @@ export default (props) => {
       color: '#29cf7f',
       data: new Array(15).fill(0).map((item, index) => ({
         x: `${2020 + index}`,
-        y: (index * value * (1.07 + Math.random() * 0.05) ** index).toFixed(2),
+        y: (
+          index *
+          value *
+          12 *
+          (1.07 + Math.random() * 0.05) ** index
+        ).toFixed(2),
       })),
     },
   ];

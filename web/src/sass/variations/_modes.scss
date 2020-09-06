@@ -6,9 +6,12 @@
     .card--highlight {
       box-shadow: none;
 
-      &:hover,
-      &.card--active {
+      &:hover {
         box-shadow: 0 2px 30px $color-classic-card-shadow;
+      }
+
+      &.card--active {
+        box-shadow: 0 2px 30px #29cf7f;
       }
     }
   }

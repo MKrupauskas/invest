@@ -22,7 +22,7 @@ sections:
         content_align: left
         actions:
           - label: Make a one-off payment
-            url: /onboarding
+            url: /demo/onboarding
             style: primary
         actions_align: left
         actions_width: full-width
@@ -41,7 +41,7 @@ sections:
         content_align: left
         actions:
           - label: Register monthly payments
-            url: /onboarding
+            url: /demo/onboarding
             style: primary
         actions_align: left
         actions_width: full-width
