@@ -209,7 +209,7 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >-
-          I always viewed investment as an activity for more experienced people. With help from MoneyWorksForMe I could gain relevant knowledge to make decisions on my own.
+          I always viewed investment as an activity for more experienced people. With help from MoneyWorks I could gain relevant knowledge to make decisions on my own.
 
 
           **Eleanor Carr,** *Student, 17 years*
