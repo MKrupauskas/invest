@@ -40,7 +40,7 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “I used to be afraid of investing. My financial consultant suggested trying MoneyWorksForMe. Now I know that clever investing can barely ever result in a loss.”
+          “I used to be afraid of investing. My financial consultant suggested trying MoneyWorks. Now I know that clever investing can barely ever result in a loss.”
         subtitle: David Norman, BA in Computer Science, 24 years
         image: images/brandon-guidelines.png
         media_position: right

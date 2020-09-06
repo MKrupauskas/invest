@@ -3,7 +3,7 @@ title: General
 sections:
   - type: hero_section
     title: General
-    subtitle: The optional subtitle
+    subtitle:
     align: center
     padding_top: medium
     padding_bottom: none
@@ -22,9 +22,10 @@ sections:
     padding_bottom: large
     has_border: true
   - type: form_section
-    title: Inline Form
+    title: Join the waiting list!
     title_align: center
-    content: Subscribe to our newsletter to make sure you don't miss anything.
+    content: >-
+      Get notified as soon as we launch our mobile application and start your investment journey.
     content_align: center
     form_position: bottom
     form_layout: inline
