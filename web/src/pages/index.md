@@ -56,7 +56,7 @@ sections:
           Start building your wealth early, learn how to allocate your money the right way. Build your knowledge and start investing now!
         actions:
           - label: Teach me, boomer!
-            url: /style-guide
+            url: /blog/post-2/
             style: primary
             has_icon: true
             icon: arrow-right
@@ -69,7 +69,7 @@ sections:
           We understand that stonks only go up, HODL Bitcoin and Tesla $420,69 but truly set yourself apart, ETFs offer the best tools to achieve your financial goals.
         actions:
           - label: Teach me, Yoda
-            url: /style-guide
+            url: /blog/post-3
             style: primary
             has_icon: true
             icon: arrow-right
@@ -83,7 +83,7 @@ sections:
           Do you care about any of these issues: climate change, racial equity and data privacy? If so, now you can use smart ways to spread your own money across multiple companies that support your causes.
         actions:
           - label: Yes, I want to help!
-            url: /style-guide
+            url: /blog/post-5/
             style: primary
             has_icon: true
             icon: arrow-right
